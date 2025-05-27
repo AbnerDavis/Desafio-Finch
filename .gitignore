@@ -17,15 +17,9 @@ yarn-error.log*
 # Variáveis de ambiente (se usar)
 .env
 
-# Relatórios (se usar mochawesome ou outros)
+# Relatórios
 mochawesome-report/
-allure-results/
-allure-report/
 
 # IDEs e editores
 .vscode/
 .idea/
-
-# Arquivos de build (caso use bundlers)
-dist/
-build/
